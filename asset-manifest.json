@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sadat-Store/static/css/main.11d77d62.css",
+    "main.js": "/Sadat-Store/static/js/main.e04ad781.js",
+    "static/js/453.e3ff37ca.chunk.js": "/Sadat-Store/static/js/453.e3ff37ca.chunk.js",
+    "index.html": "/Sadat-Store/index.html",
+    "main.11d77d62.css.map": "/Sadat-Store/static/css/main.11d77d62.css.map",
+    "main.e04ad781.js.map": "/Sadat-Store/static/js/main.e04ad781.js.map",
+    "453.e3ff37ca.chunk.js.map": "/Sadat-Store/static/js/453.e3ff37ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11d77d62.css",
+    "static/js/main.e04ad781.js"
+  ]
+}
